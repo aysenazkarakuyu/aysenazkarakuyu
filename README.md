@@ -1,12 +1,12 @@
-<table width="100%">
-  <tr>
-    <td align="left"><code>PORTFOLIO — INDEX № 001</code></td>
-    <td align="right"><code>TURIN, IT — POLITO</code></td>
-  </tr>
-</table>
+<p align="justify">
+  <code>PORTFOLIO — INDEX № 001</code>
+  <span style="float: right;"><code>TURIN, IT — POLITO</code></span>
+</p>
 
-# naz
-### Computer Engineering — Politecnico di Torino
+---
+
+# <h1 style="font-size: 42px; margin-bottom: 0;">naz</h1>
+**Computer Engineering — Politecnico di Torino**
 
 ```text
 focus  ▸  systems software · data structures · algorithms · clean tooling
