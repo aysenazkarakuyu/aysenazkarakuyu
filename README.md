@@ -10,14 +10,18 @@ status ▸  open to internships · research · collaboration
 
 ---
 
-# 01 // WHOAMI
+```text
+01 // WHOAMI
+```
 
 Second-year Computer Engineering student at **Politecnico di Torino**.  
 Focused on low-level system design, algorithm optimization, and clean software architecture. Driven by how data structures scale and how software interacts with underlying systems.
 
 ---
 
-# 02 // SYSTEM MAP
+```text
+02 // SYSTEM MAP
+```
 
 ```text
                                 [ CORE ECOSYSTEM ]
@@ -35,7 +39,9 @@ Focused on low-level system design, algorithm optimization, and clean software a
 
 ---
 
-# 03 // PROJECTS
+```text
+03 // PROJECTS
+```
 
 ### 01 / CATALOG SEARCH & INDEX ENGINE
 High-performance catalog query engine using inverted indexes and hierarchical taxonomy trees.
@@ -50,7 +56,9 @@ Interactive implementation of the Atomic Chess variant with custom explosion rul
 
 ---
 
-# 04 // STACK
+```text
+04 // STACK
+```
 
 | Category | Technologies |
 | :--- | :--- |
