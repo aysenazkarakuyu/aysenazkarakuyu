@@ -1,6 +1,6 @@
 <p align="right"><code>TURIN, IT — POLITO</code></p>
 
-# NAZ
+# naz
 #### Computer Engineering — Politecnico di Torino
 
 ```text
@@ -10,18 +10,14 @@ status ▸  open to internships · research · collaboration
 
 ---
 
-```text
-01 // WHOAMI
-```
+# <font face="monospace">01 WHOAMI</font>
 
 Second-year Computer Engineering student at **Politecnico di Torino**.  
 Focused on low-level system design, algorithm optimization, and clean software architecture. Driven by how data structures scale and how software interacts with underlying systems.
 
 ---
 
-```text
-02 // SYSTEM MAP
-```
+# <font face="monospace">02 SYSTEM MAP</font>
 
 ```text
                                 [ CORE ECOSYSTEM ]
@@ -39,9 +35,7 @@ Focused on low-level system design, algorithm optimization, and clean software a
 
 ---
 
-```text
-03 // PROJECTS
-```
+# <font face="monospace">03 PROJECTS</font>
 
 ### 01 / CATALOG SEARCH & INDEX ENGINE
 High-performance catalog query engine using inverted indexes and hierarchical taxonomy trees.
@@ -56,9 +50,7 @@ Interactive implementation of the Atomic Chess variant with custom explosion rul
 
 ---
 
-```text
-04 // STACK
-```
+# <font face="monospace">04 STACK</font>
 
 | Category | Technologies |
 | :--- | :--- |
