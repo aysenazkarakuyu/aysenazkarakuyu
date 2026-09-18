@@ -12,15 +12,6 @@ status ▸  open to internships · research · collaboration
 
 ---
 
-# 01 WHOAMI
-
-```text
-focus  ▸  systems software · data structures · algorithms · clean tooling
-status ▸  open to internships · research · collaboration
-```
-
----
-
 # 01 `WHOAMI`
 
 Second-year Computer Engineering student at **Politecnico di Torino**.  
