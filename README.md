@@ -17,7 +17,7 @@ status ▸  open to internships · research · collaboration
 
 # 01 `WHOAMI`
 
-Third-year Computer Engineering student at **Politecnico di Torino**.  
+Second-year Computer Engineering student at **Politecnico di Torino**.  
 Focused on low-level system design, algorithm optimization, and clean software architecture. Driven by how data structures scale and how software interacts with underlying systems.
 
 ---
